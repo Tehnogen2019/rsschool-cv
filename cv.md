@@ -12,6 +12,7 @@ The main goal is to become an IT professional.
 - Basic JS
 - Git
 - Basic Java
+- Jenkins
 
 ### Experience
 Basic knowledge of HTML, CSS, JavaScript, Git & GitHub, SQL, PostgreSQL, Java, Maven, Jenkins.
