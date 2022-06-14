@@ -9,7 +9,7 @@
 
 ### Summary
 
-The main goal is to become an IT professional.222
+The main goal is to become an IT professional.
 
 
 ### Skills
